@@ -401,7 +401,7 @@ if (isset($_POST['submit'])) {
 <div class="container-fluid red-background size">
 	<div class="row">
 		<div class="col-md-6 offset-md-3">
-			<h1 class="text-center">Registration</h1>
+			<h1 class="text-center">Sign Up</h1>
 			<hr class="white-bar">
 		</div>
 	</div>
@@ -409,7 +409,7 @@ if (isset($_POST['submit'])) {
 <div class="container size">
 	<div class="row">
 		<div class="col-md-6 offset-md-3 form-container">
-			<h3>SignUp</h3>
+			<h3>Register Yourself</h3>
 			<hr class="red-bar">
 			<?php
 			if (isset($termError))
