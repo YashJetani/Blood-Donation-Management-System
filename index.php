@@ -1,6 +1,9 @@
 <?php
 	include ('include/header.php');
 ?>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+
+<body>
 <!-- <div class="container-fluid header-img">
 	<div class="row">
 		<div class="col-md-6 offset-md-3">
@@ -99,7 +102,7 @@
 </div>
 
 <!-- end aboutus section -->
-
+</body>
 
 <?php
 //include footer file
