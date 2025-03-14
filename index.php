@@ -11,6 +11,7 @@
     align-items: center; 
     text-align: center;
     color: white;
+     height: 100vh; 
 ">
 				<h1 class="text-center">Donate the blood, save the life</h1>
 				<p class="text-center">Donate the blood to help the others.</p>
