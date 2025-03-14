@@ -7,12 +7,9 @@
 
 			
 			<div class="header" style="
-    display: flex; 
     justify-content: center; 
     align-items: center; 
-    height: 100vh; 
-    text-align: center; 
-    background: rgba(0, 0, 0, 0.5);
+    text-align: center;
     color: white;
 ">
 				<h1 class="text-center">Donate the blood, save the life</h1>
