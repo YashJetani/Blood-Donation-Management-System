@@ -5,7 +5,16 @@
 	<div class="row">
 		<div class="col-md-6 offset-md-3">
 
-			<div class="header">
+			
+			<div class="header" style="
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    height: 100vh; 
+    text-align: center; 
+    background: rgba(0, 0, 0, 0.5);
+    color: white;
+">
 				<h1 class="text-center">Donate the blood, save the life</h1>
 				<p class="text-center">Donate the blood to help the others.</p>
 			</div>
