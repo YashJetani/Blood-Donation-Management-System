@@ -24,7 +24,7 @@
 <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel" data-bs-interval="3000">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="img/header.png" class="d-block w-100" alt="...">
+      <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wallpaperflare.com%2Fsearch%3Fwallpaper%3D1920x1080&psig=AOvVaw1fakM8CL7FHF8-WPJ8w9Y7&ust=1742058441099000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPiU78aHiowDFQAAAAAdAAAAABAQ" class="d-block w-100" alt="...">
       <div class="carousel-caption d-md-block">
         <h5>First slide label</h5>
         <p>Some representative placeholder content for the first slide.</p>
