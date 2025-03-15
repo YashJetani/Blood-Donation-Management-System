@@ -12,7 +12,7 @@
 	<style>
         /* Set carousel height to 80vh */
         #carouselExampleCaptions {
-            height: 100vh;
+            height: 90vh;
         }
         .carousel-inner, .carousel-item {
             height: 100%;
