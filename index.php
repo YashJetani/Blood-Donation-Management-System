@@ -30,7 +30,7 @@
 </head>
 <body>
 
-<div id="carouselExampleCaptions" class="carousel slide carousel-fade" data-bs-ride="carousel" data-bs-interval="3000" data-bs-pause="false" mb-0>
+<div id="carouselExampleCaptions" class="carousel slide carousel-fade" data-bs-ride="carousel" data-bs-interval="3000" data-bs-pause="false" p-0 m-0>
   <div class="carousel-inner">
     <div class="carousel-item active">
       <img src="img/header.png" class="d-block w-100 mb-0" alt="Slide 1">
@@ -89,7 +89,7 @@
 <!-- header ends -->
 
 <!-- donate section -->
-<div class="container-fluid" style="background-color: #E74C3C; height: 80vh; display: flex; align-items: center; justify-content: center; text-align: center; padding: 30px 0;">
+<div class="container-fluid" style="background-color: #E74C3C; height: 80vh; display: flex; align-items: center; justify-content: center; text-align: center; padding: 30px; margin-top: 0px; padding-top: 0px;">
     <div class="row">
         <div class="col-md-12">
             <h1 class="text-center" style="color: white; font-weight: 700; padding: 10px 0 0 0; text-transform: uppercase;">
