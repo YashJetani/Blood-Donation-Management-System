@@ -31,6 +31,9 @@
  		 margin-top: 0;
   		padding-top: 0;
 		}
+	.next-section {
+  margin-top: -5px; /* Adjust as needed */
+}
 
     </style>
 </head>
