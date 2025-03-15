@@ -18,9 +18,11 @@
             height: 100%;
         }
         .carousel-item img {
-            object-fit: cover;
-            height: 100%;
-            width: 100%;
+    width: 100%; /* Full width */
+    height: 100vh; /* Full height of the viewport */
+    object-fit: cover; /* Ensures the image fills the entire div */
+}
+
         }
       .carousel-item {
     position: relative;
