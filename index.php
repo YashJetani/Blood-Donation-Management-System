@@ -56,8 +56,9 @@
 
 <div id="carouselExampleCaptions" class="carousel slide carousel-fade" data-bs-ride="carousel" data-bs-interval="3000" data-bs-pause="false" p-0 m-0>
   <div class="carousel-inner">
-	   <div class="overlay">
+<!-- 	   <div class="overlay"> -->
     <div class="carousel-item active">
+	    <div class="overlay"></div>
       <img src="img/img10.jpg" class="d-block w-100 mb-0" alt="Slide 1">
       <div class="carousel-caption d-md-block">
         <h3>Donate the blood, save the life</h3>
@@ -65,6 +66,7 @@
       </div>
     </div>
     <div class="carousel-item">
+	    <div class="overlay"></div>
       <img src="img/img11.jpg" class="d-block w-100 mb-0" alt="Slide 2">
       <div class="carousel-caption d-md-block">
         <h3>Donate the blood, save the life</h3>
@@ -72,6 +74,7 @@
       </div>
     </div>
     <div class="carousel-item">
+	    <div class="overlay"></div>
       <img src="img/img8.jpg" class="d-block w-100 mb-0" alt="Slide 3">
       <div class="carousel-caption d-md-block">
         <h3>Donate the blood, save the life</h3>
@@ -79,7 +82,7 @@
       </div>
     </div>
   </div>
-  </div>
+<!--   </div> -->
 	 <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
     <span class="visually-hidden">Previous</span>
