@@ -48,21 +48,21 @@
     <div class="carousel-item active">
       <img src="img/img10.jpg" class="d-block w-100 mb-0" alt="Slide 1">
       <div class="carousel-caption d-md-block">
-        <h5>Donate the blood, save the life</h5>
+        <h3>Donate the blood, save the life</h3>
         <p>Donate the blood to help the others.</p>
       </div>
     </div>
     <div class="carousel-item">
       <img src="img/img11.jpg" class="d-block w-100 mb-0" alt="Slide 2">
       <div class="carousel-caption d-md-block">
-        <h5>Donate the blood, save the life</h5>
+        <h3>Donate the blood, save the life</h3>
         <p>Donate the blood to help the others.</p>
       </div>
     </div>
     <div class="carousel-item">
       <img src="img/img8.jpg" class="d-block w-100 mb-0" alt="Slide 3">
       <div class="carousel-caption d-md-block">
-        <h5>Donate the blood, save the life</h5>
+        <h3>Donate the blood, save the life</h3>
         <p>Donate the blood to help the others.</p>
       </div>
     </div>
