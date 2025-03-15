@@ -30,7 +30,7 @@
 </head>
 <body>
 
-<div id="carouselExampleCaptions" class="carousel slide carousel-fade" data-bs-ride="carousel" data-bs-interval="3000" data-bs-pause="false">
+<div id="carouselExampleCaptions" class="carousel slide carousel-fade" data-bs-ride="carousel" data-bs-interval="3000" data-bs-pause="false" mb-0>
   <div class="carousel-inner">
     <div class="carousel-item active">
       <img src="img/header.png" class="d-block w-100 mb-0" alt="Slide 1">
