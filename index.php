@@ -27,21 +27,21 @@
 <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel" data-bs-interval="3000">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="https://loremflickr.com/800/600/blood,donation" class="d-block w-100" alt="Slide 1">
+      <img src="img/header.png" class="d-block w-100" alt="Slide 1">
       <div class="carousel-caption d-md-block">
         <h5>First Slide Label</h5>
         <p>Some representative placeholder content.</p>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="https://loremflickr.com/800/600/blood,donation" class="d-block w-100" alt="Slide 2">
+      <img src="img/img2.jpg" class="d-block w-100" alt="Slide 2">
       <div class="carousel-caption d-md-block">
         <h5>Second Slide Label</h5>
         <p>Some representative placeholder content.</p>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="https://loremflickr.com/800/600/blood,donation" class="d-block w-100" alt="Slide 3">
+      <img src="img/img3.jpg" class="d-block w-100" alt="Slide 3">
       <div class="carousel-caption d-md-block">
         <h5>Third Slide Label</h5>
         <p>Some representative placeholder content.</p>
