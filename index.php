@@ -110,7 +110,7 @@
                 — red cells, plasma, and sometimes platelets.
             </p>
             <div style="text-align: center; margin-top: 20px;">
-                <a href="donate.php" class="btn btn-default btn-lg" style="background-color: white; color: #E74C3C; font-weight: bold; padding: 10px 20px; border-radius: 10px;">
+                <a href="donate.php" class="btn btn-default btn-lg" style="background-color: white; color: #E74C3C; font-weight: bold; padding: 10px 20px; border-radius: 50px;">
                     Become a Life Saver!
                 </a>
             </div>
