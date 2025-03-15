@@ -1,11 +1,58 @@
 <?php
 	include ('include/header.php');
 ?>
-<head>
-	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
-</head>
 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bootstrap Carousel</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+    <style>
+        /* Set carousel height to 80vh */
+        #carouselExampleCaptions {
+            height: 80vh;
+        }
+        .carousel-inner, .carousel-item {
+            height: 100%;
+        }
+        .carousel-item img {
+            object-fit: cover;
+            height: 100%;
+            width: 100%;
+        }
+    </style>
+</head>
 <body>
+
+<div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel" data-bs-interval="3000">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="image1.jpg" class="d-block w-100" alt="Slide 1">
+      <div class="carousel-caption d-md-block">
+        <h5>First Slide Label</h5>
+        <p>Some representative placeholder content.</p>
+      </div>
+    </div>
+    <div class="carousel-item">
+      <img src="image2.jpg" class="d-block w-100" alt="Slide 2">
+      <div class="carousel-caption d-md-block">
+        <h5>Second Slide Label</h5>
+        <p>Some representative placeholder content.</p>
+      </div>
+    </div>
+    <div class="carousel-item">
+      <img src="image3.jpg" class="d-block w-100" alt="Slide 3">
+      <div class="carousel-caption d-md-block">
+        <h5>Third Slide Label</h5>
+        <p>Some representative placeholder content.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+<!-- header start -->
 <!-- <div class="container-fluid header-img">
 	<div class="row">
 		<div class="col-md-6 offset-md-3">
@@ -26,31 +73,6 @@
 	</div>
 </div> -->
 <!-- header ends -->
-<div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel" data-bs-interval="3000">
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-      <img src="img/header.png" class="d-block w-100" alt="...">
-      <div class="carousel-caption d-md-block">
-        <h5>First slide label</h5>
-        <p>Some representative placeholder content for the first slide.</p>
-      </div>
-    </div>
-    <div class="carousel-item">
-      <img src="img/img2.jpg" class="d-block w-100" alt="...">
-      <div class="carousel-caption d-md-block">
-        <h5>Second slide label</h5>
-        <p>Some representative placeholder content for the second slide.</p>
-      </div>
-    </div>
-    <div class="carousel-item">
-      <img src="img/img3.jpg" class="d-block w-100" alt="...">
-      <div class="carousel-caption d-md-block">
-        <h5>Third slide label</h5>
-        <p>Some representative placeholder content for the third slide.</p>
-      </div>
-    </div>
-  </div>
-</div>
 
 <!-- donate section -->
 <div class="container-fluid red-background">
@@ -104,6 +126,8 @@
 </div>
 
 <!-- end aboutus section -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+
 </body>
 
 <?php
