@@ -101,7 +101,7 @@
             <h1 class="text-center" style="color: white; font-weight: 700; padding: 10px 0 0 0; text-transform: uppercase;">
                 Donate The Blood
             </h1>
-            <hr style="width: 100px; height: 4px; background-color: white; border: none; margin: 10px auto;">
+            <hr style="width: 300px; height: 4px; background-color: white; border: none; margin: 10px auto;">
             <p class="text-center" style="color: white; font-size: 18px; max-width: 900px; margin: 0 auto; line-height: 1.6;">
                 Blood donation refers to a practice where people donate their blood to people so it helps them with their health problems. 
                 Blood is one of the most essential fluids of our body that helps in the smooth functioning of our body. If the body loses blood in 
