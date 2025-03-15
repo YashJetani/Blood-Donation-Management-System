@@ -44,7 +44,7 @@
   <div class="carousel-inner">
     <div class="carousel-item active">
 	     <div class="overlay"></div> 
-      <img src="img/img4.jpg" class="d-block w-100 mb-0" alt="Slide 1" style="opacity: 0.6;">
+      <img src="img/img10.jpg" class="d-block w-100 mb-0" alt="Slide 1" style="opacity: 0.6;">
       <div class="carousel-caption d-md-block">
         <h5>Donate the blood, save the life</h5>
         <p>Donate the blood to help the others.</p>
@@ -52,7 +52,7 @@
     </div>
     <div class="carousel-item">
 	     <div class="overlay"></div> 
-      <img src="img/img5.jpg" class="d-block w-100 mb-0" alt="Slide 2" style="opacity: 0.6;">
+      <img src="img/img11.jpg" class="d-block w-100 mb-0" alt="Slide 2" style="opacity: 0.6;">
       <div class="carousel-caption d-md-block">
         <h5>Donate the blood, save the life</h5>
         <p>Donate the blood to help the others.</p>
@@ -60,7 +60,7 @@
     </div>
     <div class="carousel-item">
 	     <div class="overlay"></div> 
-      <img src="img/img6.jpg" class="d-block w-100 mb-0" alt="Slide 3" style="opacity: 0.6;">
+      <img src="img/img8.jpg" class="d-block w-100 mb-0" alt="Slide 3" style="opacity: 0.6;">
       <div class="carousel-caption d-md-block">
         <h5>Donate the blood, save the life</h5>
         <p>Donate the blood to help the others.</p>
