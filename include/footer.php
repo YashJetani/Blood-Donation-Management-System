@@ -3,7 +3,7 @@
 				<div class="row contactus">
 					<div class="col-md-6 offset-md-3">
 						<h1 class="text-center">Contact Us</h1>
-						<hr class="white-bar">
+						<hr style="width: 300px; height: 4px; background-color: white; border: none; margin: 10px auto;">
 
 							<h1 class="text-center">
 								<a  target="_blank" href=""><i style="color: #fff;" class="fab fa-facebook-square"></i></a>
