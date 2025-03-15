@@ -95,7 +95,7 @@
 <!-- header ends -->
 
 <!-- donate section -->
-<div class="container-fluid" style="background-color: #D9534F; padding: 30px 0;">
+<div class="container-fluid" style="background-color: #E74C3C; padding: 30px 0;">
     <div class="row">
         <div class="col-md-12">
             <h1 class="text-center" style="color: white; font-weight: 700; padding: 10px 0 0 0; text-transform: uppercase;">
