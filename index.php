@@ -95,19 +95,29 @@
 <!-- header ends -->
 
 <!-- donate section -->
-<div class="container-fluid red-background">
-	<div class="row">
-		<div class="col-md-12">
-			<h1 class="text-center" style="color: white; font-weight: 700;padding: 10px 0 0 0;">Donate The Blood</h1>
-			<hr class="white-bar">
-			<p class="text-center pera-text">
-			Blood donation refers to a practice where people donate their blood to people so it helps them with their health problems. Blood is one of the most essential fluids of our body that helps in the smooth functioning of our body. If the body loses blood in excessive amounts, people to get deadly diseases and even die.
-			Whole blood donation is the most common type of blood donation. During this donation, you donate about a pint (about half a liter) of whole blood. The blood is then separated into its components — red cells, plasma and sometimes platelets.
-			</p>
-			<a href="donate.php" class="btn btn-default btn-lg text-center center-aligned">Become a Life Saver!</a>
-		</div>
-	</div>
+<div class="container-fluid" style="background-color: #D9534F; padding: 30px 0;">
+    <div class="row">
+        <div class="col-md-12">
+            <h1 class="text-center" style="color: white; font-weight: 700; padding: 10px 0 0 0; text-transform: uppercase;">
+                Donate The Blood
+            </h1>
+            <hr style="width: 100px; height: 4px; background-color: white; border: none; margin: 10px auto;">
+            <p class="text-center" style="color: white; font-size: 18px; max-width: 900px; margin: 0 auto; line-height: 1.6;">
+                Blood donation refers to a practice where people donate their blood to people so it helps them with their health problems. 
+                Blood is one of the most essential fluids of our body that helps in the smooth functioning of our body. If the body loses blood in 
+                excessive amounts, people get deadly diseases and even die. Whole blood donation is the most common type of blood donation. 
+                During this donation, you donate about a pint (about half a liter) of whole blood. The blood is then separated into its components 
+                — red cells, plasma, and sometimes platelets.
+            </p>
+            <div style="text-align: center; margin-top: 20px;">
+                <a href="donate.php" class="btn btn-default btn-lg" style="background-color: white; color: #D9534F; font-weight: bold; padding: 10px 20px; border-radius: 5px;">
+                    Become a Life Saver!
+                </a>
+            </div>
+        </div>
+    </div>
 </div>
+
 <!-- end doante section -->
 
 
