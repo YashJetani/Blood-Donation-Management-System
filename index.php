@@ -23,8 +23,7 @@
             width: 100%;
         }
       
-	.next-section {
-  margin-top: -5px; /* Adjust as needed */
+
 }
 
     </style>
@@ -90,7 +89,7 @@
 <!-- header ends -->
 
 <!-- donate section -->
-<div class="container-fluid" style="background-color: #D9534F; height: 80vh; display: flex; align-items: center; justify-content: center; text-align: center; padding: 30px 0;";">
+<div class="container-fluid" style="background-color: #D9534F; height: 80vh; display: flex; align-items: center; justify-content: center; text-align: center; padding: 30px 0;" margin-top: -5px;">
     <div class="row">
         <div class="col-md-12">
             <h1 class="text-center" style="color: white; font-weight: 700; padding: 10px 0 0 0; text-transform: uppercase;">
