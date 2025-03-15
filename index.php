@@ -23,19 +23,31 @@
     object-fit: cover; /* Ensures the image fills the entire div */
 }
 
-        }
-      .carousel-item {
+ .carousel-item {
     position: relative;
 }
 
-.overlay {
+.carousel-item .overlay {
     position: absolute;
     top: 0;
     left: 0;
     width: 100%;
     height: 100%;
-    background: rgba(0, 0, 0 , 0.7); /* Black overlay with 60% opacity */
+    background: rgba(0, 0, 0, 0.7); /* Adjust the opacity for darker effect */
+    z-index: 1;
 }
+
+.carousel-item img {
+    width: 100%;
+    height: 100vh;
+    object-fit: cover;
+}
+
+.carousel-caption {
+    position: absolute;
+    z-index: 2; /* Ensures text appears above the overlay */
+}
+
 
 
     </style>
