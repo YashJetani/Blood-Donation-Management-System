@@ -33,21 +33,21 @@
 <div id="carouselExampleCaptions" class="carousel slide carousel-fade" data-bs-ride="carousel" data-bs-interval="3000" data-bs-pause="false" p-0 m-0>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="img/img4.jpg" class="d-block w-100 mb-0" alt="Slide 1" style="opacity: 0.8;">
+      <img src="img/img4.jpg" class="d-block w-100 mb-0" alt="Slide 1" style="opacity: 0.6;">
       <div class="carousel-caption d-md-block">
         <h5>Donate the blood, save the life</h5>
         <p>Donate the blood to help the others.</p>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="img/img5.jpg" class="d-block w-100 mb-0" alt="Slide 2" style="opacity: 0.8;">
+      <img src="img/img5.jpg" class="d-block w-100 mb-0" alt="Slide 2" style="opacity: 0.6;">
       <div class="carousel-caption d-md-block">
         <h5>Donate the blood, save the life</h5>
         <p>Donate the blood to help the others.</p>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="img/img6.jpg" class="d-block w-100 mb-0" alt="Slide 3" style="opacity: 0.8;">
+      <img src="img/img6.jpg" class="d-block w-100 mb-0" alt="Slide 3" style="opacity: 0.6;">
       <div class="carousel-caption d-md-block">
         <h5>Donate the blood, save the life</h5>
         <p>Donate the blood to help the others.</p>
