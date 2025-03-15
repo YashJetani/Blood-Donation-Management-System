@@ -20,6 +20,16 @@
             height: 100%;
             width: 100%;
         }
+       .carousel {
+  		margin-bottom: 0;
+  		padding-bottom: 0;
+		}
+
+        .next-section {
+ 		 margin-top: 0;
+  		padding-top: 0;
+		}
+
     </style>
 </head>
 <body>
