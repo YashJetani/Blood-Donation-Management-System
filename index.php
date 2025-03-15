@@ -32,7 +32,7 @@
     left: 0;
     width: 100%;
     height: 100%;
-    background: rgba(0, 0, 0, 0.6); /* Black overlay with 60% opacity */
+    background: rgba(0, 0, 0, 0.5); /* Black overlay with 60% opacity */
 }
 
 
