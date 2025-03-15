@@ -22,9 +22,19 @@
             height: 100%;
             width: 100%;
         }
-      
-
+      .carousel-item {
+    position: relative;
 }
+
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.6); /* Black overlay with 60% opacity */
+}
+
 
     </style>
 </head>
@@ -33,6 +43,7 @@
 <div id="carouselExampleCaptions" class="carousel slide carousel-fade" data-bs-ride="carousel" data-bs-interval="3000" data-bs-pause="false" p-0 m-0>
   <div class="carousel-inner">
     <div class="carousel-item active">
+	     <div class="overlay"></div> 
       <img src="img/img4.jpg" class="d-block w-100 mb-0" alt="Slide 1" style="opacity: 0.6;">
       <div class="carousel-caption d-md-block">
         <h5>Donate the blood, save the life</h5>
@@ -40,6 +51,7 @@
       </div>
     </div>
     <div class="carousel-item">
+	     <div class="overlay"></div> 
       <img src="img/img5.jpg" class="d-block w-100 mb-0" alt="Slide 2" style="opacity: 0.6;">
       <div class="carousel-caption d-md-block">
         <h5>Donate the blood, save the life</h5>
@@ -47,6 +59,7 @@
       </div>
     </div>
     <div class="carousel-item">
+	     <div class="overlay"></div> 
       <img src="img/img6.jpg" class="d-block w-100 mb-0" alt="Slide 3" style="opacity: 0.6;">
       <div class="carousel-caption d-md-block">
         <h5>Donate the blood, save the life</h5>
