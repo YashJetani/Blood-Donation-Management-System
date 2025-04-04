@@ -67,7 +67,7 @@
     </div>
     <div class="carousel-item">
 	    <div class="overlay"></div>
-      <img src="img/img11.jpg" class="d-block w-100 mb-0" alt="Slide 2">
+      <img src="img/img12.jpg" class="d-block w-100 mb-0" alt="Slide 2">
       <div class="carousel-caption d-md-block">
         <h3>Donate the blood, save the life</h3>
         <p>Donate the blood to help the others.</p>
@@ -75,7 +75,7 @@
     </div>
     <div class="carousel-item">
 	    <div class="overlay"></div>
-      <img src="img/img8.jpg" class="d-block w-100 mb-0" alt="Slide 3">
+      <img src="img/img13.jpg" class="d-block w-100 mb-0" alt="Slide 3">
       <div class="carousel-caption d-md-block">
         <h3>Donate the blood, save the life</h3>
         <p>Donate the blood to help the others.</p>
