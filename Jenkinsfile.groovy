@@ -1,5 +1,5 @@
 pipeline {
-    agent { label 'yash' }  // Runs on agent 'yash'
+    agent { label 'agent-master' }  // Runs on agent 'yash'
 
     stages {    
         stage('Clone Repository') {
