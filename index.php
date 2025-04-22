@@ -133,11 +133,11 @@
                 During this donation, you donate about a pint (about half a liter) of whole blood. The blood is then separated into its components 
                 — red cells, plasma, and sometimes platelets.
             </p>
-            <div style="text-align: center; margin-top: 20px;">
+<!--             <div style="text-align: center; margin-top: 20px;">
                 <a href="donate.php" class="btn btn-default btn-lg" style="background-color: white; color: #E74C3C; font-weight: bold; padding: 10px 20px; border-radius: 50px;">
                     Become a Life Saver!
                 </a>
-            </div>
+            </div> -->
         </div>
     </div>
 </div>
