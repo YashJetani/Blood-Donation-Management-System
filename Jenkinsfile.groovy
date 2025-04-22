@@ -12,6 +12,7 @@ pipeline {
         stage('Build/Run') {
             steps {
                 sh "cd Blood-Donation-Management-System && docker compose up --build -d"
+                sh "docker run --net=host -itd -e NGROK_AUTHTOKEN=2w5ixWT5rKxetVDSp2Swjg6OCgN_74kQThH6tFE9NLVcVZjMA ngrok/ngrok:latest http --url=loyal-morally-kodiak.ngrok-free.app 8000"
            
             }
         }
