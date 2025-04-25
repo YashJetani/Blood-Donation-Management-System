@@ -61,7 +61,7 @@
 	    <div class="overlay"></div>
       <img src="img/img10.jpg" class="d-block w-100 mb-0" alt="Slide 1">
       <div class="carousel-caption d-md-block">
-        <h3>Donate the blood, save the life</h3>
+        <h3> the blood, save the life</h3>
         <p>Donate the blood to help the others.</p>
       </div>
     </div>
